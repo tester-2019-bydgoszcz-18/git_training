@@ -8,3 +8,8 @@ Instrukcja do projektu:
 function test() { 
   console.log("look ma’, no spaces");
 }
+
+Task list
+[ ] do stuff
+[ ] do something other
+[ ] repeat
